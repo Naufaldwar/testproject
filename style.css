@@ -1,0 +1,66 @@
+.colornav{
+    background-color: rgb(74, 183, 247);
+    color: white;
+}
+.sizenav{
+    height: 70px;
+}
+.sizenav2{
+    height: 40px;
+}
+
+.marginh1{
+    
+    margin-bottom: 5px;
+    padding-top: 5px;
+    font-size: 50px;
+}
+
+.marginh11{
+    text-align: center;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    
+}
+.colornav .sizenav .size{
+    font-size: 50px;
+}
+
+.btn-posisi{
+    padding-left: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.container .marginh5{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 7px;
+}
+
+.container .mb-3 .form-control1{
+    margin-top: 50px;
+}
+
+.container .mb-3 .form-label1{
+    margin-top: 50px;
+}
+.container .mb-3 .padding1{
+    margin-left: 50px;
+}
+
+.border-container{
+    margin-top: 10px;
+    border: solid;
+}
+
+.container .row .border-col{
+    margin-top: 10px;
+    border: solid;
+}
+
+.posisi-btn{
+    margin-left: 1050px;
+    background-color: rgb(0, 0, 0) ;
+    color: white;
+}
